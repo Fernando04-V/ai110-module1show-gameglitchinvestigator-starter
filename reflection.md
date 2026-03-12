@@ -8,6 +8,15 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+  - The program at execution looked very good at first; I had no issues with the interface nor entering my inputs to guess for a number. However, once i got to actually playing the game, that is where i ran into some issues. For starters, the hints feature was giving me the incorrect hints. Afterwards i realized that i could enter negative numbers and numbers above the accepted range without the program stopping me. 
+
+  - Bugs
+    - Game was accepting negative inputs
+    - The "name game" feature was not working
+    - The hints were incorrect. When i placed a number lower than the secret number, the hints were telling me to go lower instead of higher
+    - The history for the inputs seems to be off
+    - Program accepts floating point numbers
+
 ---
 
 ## 2. How did you use AI as a teammate?
