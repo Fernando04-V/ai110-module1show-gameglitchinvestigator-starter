@@ -25,9 +25,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [] Describe the game's purpose.
+- [ ] Describe the game's purpose.
    - Game is guessing correctly the secret number
-- [] Detail which bugs you found.
+- [ ] Detail which bugs you found.
    - Incorrect hints
    - new game feature not working 
    - accepting inputs out of range
