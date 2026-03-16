@@ -25,13 +25,21 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
+- [] Describe the game's purpose.
+   - Game is guessing correctly the secret number
+- [] Detail which bugs you found.
+   - Incorrect hints
+   - new game feature not working 
+   - accepting inputs out of range
 - [ ] Explain what fixes you applied.
+   - Hints now yield the properly according to the input
+   - New game feature works
+   - Secret number no longer changes throughout a game
+   - Game only accepts inputs according to the range
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [ ] [images/screenshot.png]
 
 ## 🚀 Stretch Features
 
